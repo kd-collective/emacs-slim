@@ -1,7 +1,7 @@
 # Synopsis
 
 `slim-mode` provides Emacs support for editing
-[Slim](http://slim-lang.com) templates. It's based on `haml-mode`.
+[Slim](http://slim-template.github.io) templates. It's based on `haml-mode`.
 
 ![Screenshot](http://i50.tinypic.com/2441b8i.png)
 
@@ -19,17 +19,11 @@ folder `~/.emacs.d/vendor`:
 (require 'slim-mode)
 ```
 
-## Marmalade
-
-If you're an Emacs 24 user or you have a recent version of package.el
-you can install `slim-mode` from the
-[Marmalade](http://marmalade-repo.org/) repository.
-
 ## MELPA
 
 If you're an Emacs 24 user or you have a recent version of package.el
 you can install `slim-mode` from the
-[MELPA](http://melpa.milkbox.net/) repository.
+[MELPA](http://melpa.org/) repository.
 
 ## Emacs Prelude
 
